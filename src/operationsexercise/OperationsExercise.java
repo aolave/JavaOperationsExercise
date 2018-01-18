@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author Usuario
+ * @author crobledo
  */
 public class OperationsExercise {
 
